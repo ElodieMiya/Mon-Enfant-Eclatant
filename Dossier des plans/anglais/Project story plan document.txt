@@ -1,0 +1,163 @@
+Day 1: Monday 1st April
+
+It was an unusually bright and sunny afternoon for April. I'd just left school, and decided on a whim to visit the local park, as it was on the route home anyways. As I was walking through, I spotted from the distance a small figure sitting alone on the bench. It looked like a child. Curious, I approached it, and realised it was indeed a little girl, looking no older than 13 or so.
+
+Alexia: "Excuse me?"
+
+The child looked up, a startled expression on her face. I felt slightly guilty.
+
+Alexia: "Ah, sorry, didn't mean to startle you."
+
+She shook her head. I continued.
+
+Alexia: "Anyways, are you okay? Sitting here all alone is dangerous, you know?"
+
+Yeah, this area can be rather dangerous at times, especially with the kids my age and older hanging around the park after school.
+
+The girl just stared at me, a mix of curiosity and fear in her eyes. I felt sort of bad for her, for some reason...
+
+Alexia: "Are you lost? I could help, if you'd like."
+
+The girl pondered for a moment, before nodding slowly. I found myself wondering, maybe she's non-verbal, or just too scared of me, being a stranger and all.
+
+Alexia: "What's your name, little girl?"
+
+I queried. I waited patiently for her reply. Finally, she responded in a small whispery voice.
+
+Ayana: "...Ayana..."
+
+Alexia: "Okay, Ayana. That's a very pretty name."
+
+She smiled slightly.
+
+Ayana: "Th-Thank you..."
+
+Alexia: "You're welcome."
+
+I smiled back, warmly.
+
+Alexia: "Anyways, Ayana, how old are you?"
+
+She took her time with her response once again, not that I minded. I wasn't in a huge hurry or anything.
+
+Ayana: "Uhm, 13."
+
+Alexia: "Oh..."
+
+Just as I thought, then.
+
+Alexia: "Are your parents nearby, Ayana?"
+
+She shook her head.
+
+Alexia: "Do you know if you live close by?"
+
+She paused for a moment before shaking her head again. I sighed. This isn't good...
+
+I'm not sure what to do... I can't just leave her here, can I?
+
+Alexia: "Right, well, let me take you to the police station. Maybe your parents reported you as missing."
+
+The way she looked at me in that moment... Her expression full of fear and panic and desperation.
+
+Ayana: "Please don't!..."
+
+She spoke a lot louder, not quite shouting but it still startled me.
+
+Alexia: "Sorry."
+
+She sat back down, sighing.
+
+Ayana: "I-I'm... fine..."
+
+Her voice returned to a whisper, and she avoided eye contact. I felt really bad.
+
+Alexia: "There must be something I can do to help..."
+
+She shaked her head again. I feel terrible, but I must move on, unfortunately.
+
+Alexia: "Well, stay safe, okay?"
+
+Ayana: "Mhm..."
+
+I turned to leave, feeling disappointed in myself.
+
+Ayana: "...Thank you..."
+
+She muttered, just loud enough for me to hear. I turned back.
+
+Alexia: "You're welcome."
+
+I walked away, back through the park. However, I couldn't stop thinking about Ayana... Damn it...
+
+Just then, it started chucking it down with rain.
+
+Alexia: "Shit!"
+
+I didn't have a coat or anything, as I had no idea it was going to rain.
+
+I took off running, then stopped, turning back.
+
+Alexia: "Ayana..."
+
+I had a choice. I could either go back and help her out of the rain, or I could leave her, hoping for the best.
+---
+MENU: HELP AYANA OR NOT
+
+IF PLAYER CHOOSES TO HELP AYANA:
+Carry on as normal.
+
+IF PLAYER CHOOSES NOT TO HELP AYANA:
+I sigh. I can't turn back now... I just hope she'll be okay.
+
+I continue running home, and the panic makes me forget all about her.
+
+END GAME.
+---
+I run in the opposite direction to home, towards where Ayana was sitting before, hoping she'd still be there.
+
+When I arrived, luckily, she was still there, curled up on the bench, clearly shivering. I approached her carefully.
+
+Alexia: "Hey, Ayana..."
+
+She looked up in surprise.
+
+Ayana: "You came back?!"
+
+She asked, disbelief in her voice.
+
+Alexia: "Yeah... I didn't want to leave you out in the rain."
+
+Ayana: "W-What... What do you plan to do...?"
+
+She asked, her expression shifting to one of curiosity, as she uncurled herself and sat straight.
+
+Alexia: "Well... I suppose I could take you home..."
+
+What am I saying?! Isn't that like, kidnapping??
+
+Alexia: "...With your consent, of course."
+
+Good. That makes it sound slightly better.
+
+She stared at me intensely for a long few seconds. I felt like the world stopped around me. Her expression was mixed, of relief and wariness.
+
+Finally, she responded.
+
+Ayana: "O-Okay..."
+
+Alexia: "What?!"
+
+I thought I'd misheard her. I must have...
+
+Ayana: "I said fine."
+
+She stood up, heading to me.
+
+Ayana: "L-Let's go. I'm c-cold."
+
+Before I could do anything, she grabbed my hand, and we were walking.
+
+Oh well. I'd better stick to what I said. She doesn't deserve to be left alone. No one does... I know...
+
+END SCENE.
